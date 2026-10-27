@@ -1,5 +1,5 @@
 local GamePlaceIDs = {
-    [99362936871032] = "https://raw.githubusercontent.com/boomboom533/duelsK/refs/heads/main/Source.lua"; -- duels
+    [139943061361383] = "https://raw.githubusercontent.com/boomboom533/duelsK/refs/heads/main/Source.lua"; -- duels
 }
 
 if not GamePlaceIDs[game.PlaceId] then
